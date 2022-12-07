@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasterLegend)](https://github.com/MasterLegend/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterLegend&layout=compact)](https://github.com/MasterLegend/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasterLegend)](https://github.com/MasterLegend/github-readme-stats&show_icons=true)
